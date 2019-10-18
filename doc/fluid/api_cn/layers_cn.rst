@@ -40,6 +40,7 @@ fluid.layers
     layers_cn/box_decoder_and_assign_cn.rst
     layers_cn/bpr_loss_cn.rst
     layers_cn/brelu_cn.rst
+    layers_cn/Categorical_cn.rst
     layers_cn/cast_cn.rst
     layers_cn/ceil_cn.rst
     layers_cn/center_loss_cn.rst
@@ -171,6 +172,7 @@ fluid.layers
     layers_cn/multi_box_head_cn.rst
     layers_cn/multiclass_nms_cn.rst
     layers_cn/multiplex_cn.rst
+    layers_cn/MultivariateNormalDiag_cn.rst
     layers_cn/natural_exp_decay_cn.rst
     layers_cn/nce_cn.rst
     layers_cn/noam_decay_cn.rst
